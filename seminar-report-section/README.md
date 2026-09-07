@@ -2,16 +2,16 @@
 
 個人 Seminar 報告專區（Seminar I / Seminar II）
 
-> Homework 1 請繳交本倉庫網址：  
+> Homework 1 請繳交本網址：  
 > `https://github.com/<你的帳號>/<倉庫名稱>`
 
 ## 學生資訊
 
-- 姓名：
-- 學號：
-- 系所／班級：
-- 課程：Seminar I（如老師指定 Seminar II，改這裡即可）
-- 學期：
+- 姓名：王又鋐
+- 學號：11563109
+- 系所／班級：碩資工一甲
+- 課程：書報討論
+- 學期：115-1
 - GitHub：https://github.com/<你的帳號>
 
 ## 資料夾說明
