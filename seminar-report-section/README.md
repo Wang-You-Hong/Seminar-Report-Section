@@ -18,17 +18,19 @@
 
 ```text
 seminar-report-section/
-├── README.md                 # 本頁：專區首頁
+├── README.md
 ├── seminar-i/
-│   ├── README.md             # Seminar I 目錄
-│   ├── reports/              # 書面報告（PDF / Markdown）
-│   ├── slides/               # 簡報
-│   └── notes/                # 課堂筆記、閱讀心得
-└── seminar-ii/
-    ├── README.md             # Seminar II 目錄
-    ├── reports/
-    ├── slides/
-    └── notes/
+│   ├── ...
+│   └── notes/                  # 原本的
+├── seminar-ii/
+│   ├── ...
+│   └── notes/                  # 原本的
+│
+├── notes-01/                   ← 第1次演講筆記
+    └── note.md          # 或 2026-09-15_講者_題目.md
+├── notes-02/                   ← 第2次演講筆記
+├── notes-03/                   ← 第3次演講筆記
+└── notes-04/                   ← 第4次演講筆記
 ```
 
 ## 繳交紀錄
