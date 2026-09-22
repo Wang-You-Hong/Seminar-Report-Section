@@ -12,7 +12,7 @@
 - 系所／班級：碩資工一甲
 - 課程：書報討論
 - 學期：115-1
-- GitHub：https://github.com/<你的帳號>
+- GitHub：https://github.com/Wang-You-Hong
 
 ## 資料夾說明
 
