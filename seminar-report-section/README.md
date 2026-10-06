@@ -2,8 +2,6 @@
 
 個人 Seminar 報告專區（Seminar I / Seminar II）
 
-> Homework 1 請繳交本網址：  
-> `https://github.com/<你的帳號>/<倉庫名稱>`
 
 ## 學生資訊
 
